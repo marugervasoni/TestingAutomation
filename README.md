@@ -67,3 +67,13 @@ Lista de tecnologías usadas en el proyecto:
     - extentreports
     - rest-assured
     - testng
+
+***
+## Autores ✒️
+
+Desarrollo y Documentación: María Rosa Gervasoni.
+
+
+#### Muchas Gracias 🎁
+
+#### ⌨️ con ❤️ por marugervasoni 😊
